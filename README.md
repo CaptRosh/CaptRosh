@@ -1,4 +1,4 @@
-Hi, I am Roshan Srivastava. I am a 3rd Year Electronics and Telecommunication Engineering undergraduate student with an interest in Machine Learning, Deep Learning, Image Processing, 3D Reconstruction and Automating things.
+Hi, I am Roshan Srivastava. I am a 4th Year Electronics and Telecommunication Engineering undergraduate student with an interest in Machine Learning, Deep Learning, Image Processing, 3D Reconstruction and Automating things.
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
